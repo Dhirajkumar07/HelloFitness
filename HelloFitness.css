@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.image_1{
+    width: 450px;
+    height: 450px;
+    transition:all 0.2s linear;
+}
+.image_1:hover{
+    transform: scaleX(1.5);
+   
+}
+.image_2{
+    width: 450px;
+    height: 450px;
+    transition:all 0.2s linear;
+}
+.image_2:hover{
+   transform: scaleX(1.5);
+}
+.image_3{
+    width: 450px;
+    height: 450px;
+    transition:all 0.2s linear;
+}
+.image_3:hover{
+    transform: scaleX(1.5);
+}
